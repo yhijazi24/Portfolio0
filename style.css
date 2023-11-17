@@ -96,7 +96,7 @@ footer a:hover {
 /* Home 
 --------------------------------------------*/
 .Home {
-    background: url(/IMAGES/bg-home-office-city.jpg) no-repeat;
+    background-image: url(/IMAGES/bg-home-office-city.jpg) no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
